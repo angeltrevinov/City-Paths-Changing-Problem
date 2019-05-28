@@ -1,7 +1,7 @@
 /*
   Angel Odiel Treviño Villanueva
   A01336559
-  Examen Parcial 2  Fecha: 18/Marzo Materia: Diseño y Analisis de Algoritmos
+  Fecha: 18/Marzo Materia: Diseño y Analisis de Algoritmos
 */
 
 #include <iostream>
